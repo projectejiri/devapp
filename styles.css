@@ -1,0 +1,60 @@
+
+body {
+  background-color: #B2B3FF;
+  font: #091E00;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.text {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.form-section  {
+  background-color: #FFFEB2;
+  margin-left: 10px;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+.form-heading {
+  font-family: 'Source Sans Pro', sans-serif;
+  text-decoration: underline;
+}
+.heading-container {
+  text-align: center;
+  text-decoration: underline;
+}
+.mod {
+  color: green;
+}
+.eval {
+  color: red;
+}
+
+.big-heading {
+  font-size: 3rem;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.video {
+  text-align: center;
+  padding-top: 50px;
+}
+.caption {
+    color: black;
+
+    font-weight: bold;
+}
+.appeal-msg {
+  padding: 30px;
+  font-weight: bolder;
+}
+.btn {
+  border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #b3b2ff;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
